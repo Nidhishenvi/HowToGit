@@ -1,0 +1,17 @@
+   8 git init
+   9 git add .\README.md
+  10 git remote add origin https://github.com/gnsaddy/django_restful_api.git
+  11 git push -u origin master
+  12 git commit -m "first commit"
+  13 git remote add origin https://github.com/gnsaddy/django_restful_api.git
+  14 git push -u origin master
+  15 ls
+  16 git push -u origin master
+  17 python .\manage.py startapp src
+  18 git push -u origin master
+  19 git commit -m "first commit"
+  20 git add -a
+  21 git add --all
+  22 git commit -m "first commit"
+  23 git push -u origin master
+
